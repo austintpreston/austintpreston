@@ -1,6 +1,6 @@
 # Hi, I'm Austin Preston.
 
-I am a Technical Product Architect and Founder bridging the gap between complex financial domain logic and scalable engineering systems. 
+I am a Product Architect and Founder bridging the gap between complex financial domain logic and scalable engineering systems. 
 
 Modern FinTech suffers from a 'Translation Deficit'—the gap between financial theory and engineering reality. I sit directly in that gap. I translate complex quantitative models and market-driven business logic into the precise API schemas, system architectures, and Technical Requirements (PRDs) required to drive scalable engineering sprints.
 
