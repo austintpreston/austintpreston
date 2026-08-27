@@ -6,7 +6,7 @@ Modern FinTech suffers from a 'Translation Deficit'—the gap between financial 
 
 ### What I'm doing right now:
 * **Incoming Product Architect Intern @ Aria Advisory:** Owning the technical architecture and API schema design for an enterprise-scale P&C risk simulation platform.
-* **Founder & Executive Director @ Sovereign Capital Initiative (SCI):** Directing a quantitative macroeconomic think-tank and incubating an open-source "Quant Desk" to model geopolitical risk.
+* **Founder & President @ Sovereign Capital Initiative (SCI):** Directing a quantitative macroeconomic think-tank and incubating an open-source "Quant Desk" to model geopolitical risk.
 
 ### My Tech & Product Stack:
 * **Product:** Technical PRDs | API Schema Design | Strategic Roadmapping | Agile/Scrum
