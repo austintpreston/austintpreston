@@ -8,8 +8,8 @@ I am a Fintech Engineer bridging the gap between complex financial problems and 
 * **Incoming Product Architect Intern @ Aria Advisory:** Owning the design of an enterprise-scale P&C risk simulation platform.
 
 ### My Tech & Product Stack:
+* **Domain:** Financial Markets | P&C Risk Modelling | Algorithmic Simulation
 * **Engineering:** Python | C | SQL | Relational Databases | System Architecture
-* **Domain:** Macroeconomic Strategy | P&C Risk Modelling | Algorithmic Simulation 
 * **Product:** Technical PRDs | API Schema Design | Strategic Roadmapping | Agile/Scrum
 
 ---
