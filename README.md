@@ -3,7 +3,7 @@
 I bridge the gap between complex financial problems and software solutions.
 
 ### What I'm doing right now:
-* **Student @ Carleton University:** Studying the intersection of Computer Science (Major), Finance (Minor) and Statistics (Minor).
+* **Student @ Carleton University:** Pursing an undergrad with a major Computer Science, double minor in Finance & Entrepreneurship.
 * **Founder & President @ Sovereign Capital Initiative (SCI):** Directing a think-tank and "Quant Desk" to model geopolitical risk.
 * **Incoming Product Architect Intern @ Aria Advisory:** Owning the design of an enterprise-scale P&C risk simulation platform.
 
