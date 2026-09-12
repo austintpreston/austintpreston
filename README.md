@@ -1,6 +1,6 @@
 # Hi, I'm Austin Preston.
 
-I am a Fintech Engineer bridging the gap between complex financial problems and software solutions.
+I bridge the gap between complex financial problems and software solutions.
 
 ### What I'm doing right now:
 * **Student @ Carleton University:** Studying the intersection of Computer Science (Major), Finance (Minor) and Statistics (Minor).
