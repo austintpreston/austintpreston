@@ -9,8 +9,8 @@ I bridge the gap between complex financial problems and software solutions.
 
 ### My Tech & Product Stack:
 * **Domain:** Hybrid Fintech Solutions | Digital Asset Infrastructure | Insurtech & DeFi Integration
-* **Product:** Technical PRDs | API Schema Design | Strategic Roadmapping | Agile/Scrum
-* **Engineering:** Python | C | SQL | Relational Databases | System Architecture
+* **Product:** Technical PRDs | API Schema Design | Tokenomics Modeling | Strategic Roadmapping
+* **Engineering:** Solidity & EVM | Python | C | SQL | Distributed Systems Architecture
 
 ---
 [LinkedIn](https://linkedin.com/in/austintpreston) | [Email](mailto:austintpreston@proton.me)
