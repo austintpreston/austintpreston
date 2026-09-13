@@ -4,7 +4,7 @@ I architect the technical and economic infrastructure that bridges traditional f
 <br>
 🎓 Student @ Carleton University: Pursuing a Computer Science undergrad with minors in Finance & Entrepreneurship.
 <br>
-🚀 Incoming Product Architect Intern @ Aria: System-level schema design for a high-concurrency enterprise risk simulation engine.
+🚀 Incoming Product Architect Intern @ Aria: Owning end-to-end architecture and full-stack development for the firm's enterprise risk simulation platform.
 <br><br>
 **My Tech & Product Stack:**
 <br>
