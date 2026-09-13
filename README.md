@@ -2,6 +2,8 @@ I architect the technical and economic infrastructure that bridges traditional f
 <br><br>
 **What I'm doing right now:**
 <br>
+💻 Founder & President @ Applied Fintech Society: Building a Fintech community of builders and curious students.
+<br>
 🎓 Student @ Carleton University: Pursuing a Computer Science undergrad with minors in Finance & Entrepreneurship.
 <br>
 🚀 Incoming Product Architect Intern @ Aria: Owning end-to-end architecture and full-stack development for the firm's enterprise risk simulation platform.
