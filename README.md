@@ -7,6 +7,7 @@ What I'm doing right now:
 
 🚀 Incoming Product Architect Intern @ Aria: System-level schema design for a high-concurrency enterprise risk simulation engine.
 
+
 My Tech & Product Stack:
 
 🔹 Domain: Hybrid Fintech Solutions | Digital Asset Infrastructure | Insurtech & DeFi Integration
