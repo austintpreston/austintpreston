@@ -1,6 +1,8 @@
 **What I'm doing right now:**
 <br>
-🎓 Student @ Carleton University: Pursuing a Computer Science undergrad with minors in Finance & Entrepreneurship.
+🖌️ Student Ambassador @ Adobe: Representing Adobe on Campus!
+<br>
+🎓 Student @ Carleton University: Pursuing an Honours Computer Science undergrad with a AI/ML Stream & Minor in Economics.
 <br>
 🚀 Incoming Product Architect Intern @ Aria: Architecture and full-stack development for the firm's risk simulation platform.
 <br><br>
