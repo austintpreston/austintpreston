@@ -2,7 +2,7 @@
 <br>
 🖌️ Student Ambassador @ Adobe: Representing Adobe on Campus!
 <br>
-🎓 Student @ Carleton University: Pursuing an Honours Computer Science undergrad with a AI/ML Stream & Minor in Economics.
+🎓 Student @ Carleton University: Pursuing an Honours Computer Science undergrad with a Double Minor in Mathematics and Economics.
 <br>
 🚀 Incoming Product Architect Intern @ Aria: Architecture and full-stack development for the firm's risk simulation platform.
 <br><br>
