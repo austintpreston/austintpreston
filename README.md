@@ -2,9 +2,9 @@
 <br>
 🖌️ Student Ambassador @ Adobe: Representing Adobe on Campus!
 <br>
-🎓 Student @ Carleton University: Pursuing an Honours BCS, Software Engineering Stream & Philosophy Minor.
+🎓 Student @ Carleton University: Pursuing an Honours BCS, Software Engineering Stream, Philosophy Minor.
 <br>
-🚀 Incoming Product Architect Intern @ Aria: Architecture and full-stack development for the firm's risk simulation platform.
+🚀 Incoming Product Architect Intern @ Aria: Designing the architecture for the firm's risk simulation platform.
 <br><br>
 **My Tech & Product Stack:**
 <br>
