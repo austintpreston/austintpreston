@@ -8,6 +8,6 @@
 <br><br>
 **My Tech & Product Stack:**
 <br>
-🔹 Engineering: Python | C | SQL | Distributed Systems Architecture
+🔹 Engineering: Python | Julia | Rust | C/C++ | PostgreSQL | MongoDB
 <br>
 🔹 Product: Technical PRDs | API Schema Design | Strategic Roadmapping
