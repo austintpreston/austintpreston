@@ -4,10 +4,10 @@
 <br>
 🚀 Incoming Product Architect Intern @ Aria: Designing the firm's risk simulation platform architecture.
 <br>
-🎓 Student @ Carleton University: Pursuing an Honours BCS, Software Engineering Stream, Philosophy Minor.
+🎓 Student @ Carleton University: Pursuing a BCS, Major in Computer Science.
 <br><br>
 **My Tech & Product Stack:**
 <br>
-🔹 Engineering: Python | Julia | Rust | C/C++ | PostgreSQL | MongoDB
+🔹 Engineering: Python | Java | C/C++ | PostgreSQL
 <br>
 🔹 Product: Technical PRDs | API Schema Design | Strategic Roadmapping
