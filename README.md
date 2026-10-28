@@ -8,6 +8,6 @@
 <br><br>
 **My Tech & Product Stack:**
 <br>
-🔹 Engineering: Python | Java | C/C++ | PostgreSQL
+🔹 Engineering: Python | Java | C | Rust | PostgreSQL
 <br>
 🔹 Product: Technical PRDs | API Schema Design | Strategic Roadmapping
